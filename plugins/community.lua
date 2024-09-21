@@ -6,4 +6,11 @@ return {
 
   { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
+  { import = "astrocommunity.pack.ruby" },
+  { import = "astrocommunity.pack.typescript-all-in-one" },
+  { import = "astrocommunity.pack.kotlin" },
+  { import = "astrocommunity.pack.python" },
+  { import = "astrocommunity.markdown-and-latex.glow-nvim"},
+  { import = "astrocommunity.pack.rust"},
+  { import = "astrocommunity.pack.go"},
 }
